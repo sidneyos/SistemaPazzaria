@@ -1,0 +1,26 @@
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.exe.config
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.exe
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.pdb
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmclientes.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmprincipal.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.exe
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.pdb
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmpizzas.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmpedidos.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\bin\Debug\sistemapizaria.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmclientes.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmpedidos.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmpizzas.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.frmprincipal.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\sistemapizaria\sistemapizaria\obj\Debug\sistemapizaria.pdb
